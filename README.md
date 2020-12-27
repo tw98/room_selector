@@ -1,6 +1,6 @@
 # Roommate Randomizer
 
-This script groups a number of people from a larger group together in a random manner and builds a presentation to show the assignments. The script automatically formats the room assignments based on number of people in the room (layout tested for 2-12 people)
+This script randomly assigns people from a larger group to rooms and automatically creates a slideshow to present the room assignments. The Randomizer automatically creates clean, nicely-formatted pictures to show the room assignments. Works for an arbitrary number of people (tested for 2-12 people)
 
 Input:
 - csv file with cols: 
